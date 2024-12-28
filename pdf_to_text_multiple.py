@@ -5,7 +5,7 @@
 import os
 import fitz
 
-os.chdir('C:\\Users\\ACT\\Documents\\C\\scripts_new\\pdf_to_text')
+os.chdir('C:\\Documents\\C\\scripts_new\\pdf_to_text')
 
 # Caminho para o diretório com os arquivos .pdf
 src_dir = "files_pdf"
