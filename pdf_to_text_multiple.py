@@ -45,4 +45,4 @@ for file in files:
 ##
 import glob
 
-files=glob.glob('C:\\Users\\ACT\\Documents\\C\\scripts_new\\nlp\\files_pdf\\*.pdf')
+files=glob.glob('C:\\Documents\\C\\scripts_new\\nlp\\files_pdf\\*.pdf')
